@@ -52,7 +52,7 @@ Project Link: [https://github.com/SyawalinaShukri/DL_TimeSeries](https://github.
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [Dataset from MohH-Malaysia Github](https://github.com/MoH-Malaysia/covid19-public)
+* [Dataset from MoH-Malaysia Github](https://github.com/MoH-Malaysia/covid19-public)
 * [TenserFlow](https://www.tensorflow.org/tutorials/structured_data/time_series)
 
 
