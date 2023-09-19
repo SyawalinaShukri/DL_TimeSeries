@@ -60,15 +60,15 @@ Project Link: [https://github.com/SyawalinaShukri/DL_TimeSeries](https://github.
 
 <!-- Model Architecture -->
 ## Model Architecture
-![single_model_architecture](https://github.com/SyawalinaShukri/DL_TimeSeries/assets/95696153/20f7f8b7-f386-49ff-b481-bad9b2388e57)
-![multi_model_architecture](https://github.com/SyawalinaShukri/DL_TimeSeries/assets/95696153/6c3a884d-34b9-493a-b175-90316d73c59a)
+![single_model_architecture](https://github.com/SyawalinaShukri/DL_TimeSeries/assets/95696153/fab01223-6d87-405a-8d88-563610358f5b)
+![multi_model_architecture](https://github.com/SyawalinaShukri/DL_TimeSeries/assets/95696153/0d5f673b-d457-48d0-9d1c-882bab1b4e59)
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)
+</p>
 
 <!-- Model Performance -->
 ## Model Performance
- ![single_model_2_pred_plot](https://github.com/SyawalinaShukri/DL_TimeSeries/assets/95696153/ed47470b-ba86-439f-b65f-2d7becb5a34b)
+![single_model_2_pred_plot](https://github.com/SyawalinaShukri/DL_TimeSeries/assets/95696153/c62c3ca6-e6e3-4e3d-aefd-372b39cd5cc4)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
