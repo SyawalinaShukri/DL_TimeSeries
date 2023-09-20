@@ -15,7 +15,7 @@
 * Folder scripts include the source code files:
     * dl_time_series.py - python project file
     * time_series_helper.py - classes for window generator
-	* dl_time_series_notebook.ipynb - ipython or jupyter notebook file with example output
+    * dl_time_series_notebook.ipynb - ipython or jupyter notebook file with example output
 
 * Folder model - include the saved model resulting from the project, assessment2_model.h5
 
@@ -43,7 +43,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 Syawalina
 
-Project Link: [https://github.com/SyawalinaShukri/DL_TimeSeries](https://github.com/SyawalinaShukri/CV_ImageClassification)
+Project Link: [https://github.com/SyawalinaShukri/DL_TimeSeries](https://github.com/SyawalinaShukri/DL_TimeSeries)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
