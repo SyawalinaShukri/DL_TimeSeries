@@ -28,8 +28,6 @@
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 * [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 * [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-Latest-blue)](https://code.visualstudio.com/)
 
